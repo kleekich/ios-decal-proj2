@@ -20,7 +20,7 @@ class HangmanPhrases {
     // Get random phrase from all available phrases
     func getRandomPhrase() -> String! {
         let index = Int(arc4random_uniform(UInt32(phrases.count)))
-        return phrases.objectAtIndex(4) as! String
+        return phrases.objectAtIndex(index) as! String
     }
     
 }
