@@ -172,8 +172,8 @@
 		ECC22F731C8917DC00749E58 /* View */ = {
 			isa = PBXGroup;
 			children = (
-				ECC22F461C89177600749E58 /* Main.storyboard */,
 				EC9310531C891F3400BE736C /* basic-hangman-img */,
+				ECC22F461C89177600749E58 /* Main.storyboard */,
 			);
 			name = View;
 			sourceTree = "<group>";
